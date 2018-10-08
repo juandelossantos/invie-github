@@ -1,2 +1,4 @@
-# invie-github
-Curso de GitHub en https://www.platzi.com
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
