@@ -1,2 +1,2 @@
 # invie-github
-Curso de GitHub en Platzi.com
+Curso de GitHub en https://www.platzi.com
