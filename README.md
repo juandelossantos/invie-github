@@ -1,4 +1,4 @@
 # invie
 Las guitarras más locas
 
-http://juandelossantos.github.io/invie-responsive/
+http://juandelossantos.github.io/invie-github/
